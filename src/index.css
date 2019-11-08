@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.card-image {
+  min-height: 375px;
+  max-height: 375px;
+  background: black;
+  padding: 10px 0px;
+}
+.card-image img {
+  max-height: 375px;
+}
+.card .card-content {
+  height: 120px;
+}
+.team-title {
+  margin-top: 0px;
+  font-size: 20px;
+}
