@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-hook-dota2wiki/static/css/main.301ebe38.chunk.css",
+    "main.js": "/react-hook-dota2wiki/static/js/main.72a5b3f2.chunk.js",
+    "main.js.map": "/react-hook-dota2wiki/static/js/main.72a5b3f2.chunk.js.map",
+    "runtime-main.js": "/react-hook-dota2wiki/static/js/runtime-main.b5b08a78.js",
+    "runtime-main.js.map": "/react-hook-dota2wiki/static/js/runtime-main.b5b08a78.js.map",
+    "static/js/2.859412ec.chunk.js": "/react-hook-dota2wiki/static/js/2.859412ec.chunk.js",
+    "static/js/2.859412ec.chunk.js.map": "/react-hook-dota2wiki/static/js/2.859412ec.chunk.js.map",
+    "index.html": "/react-hook-dota2wiki/index.html",
+    "precache-manifest.f211e71b8ad1e005707577dca5c33187.js": "/react-hook-dota2wiki/precache-manifest.f211e71b8ad1e005707577dca5c33187.js",
+    "service-worker.js": "/react-hook-dota2wiki/service-worker.js",
+    "static/css/main.301ebe38.chunk.css.map": "/react-hook-dota2wiki/static/css/main.301ebe38.chunk.css.map",
+    "static/media/logo.svg": "/react-hook-dota2wiki/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5b08a78.js",
+    "static/js/2.859412ec.chunk.js",
+    "static/css/main.301ebe38.chunk.css",
+    "static/js/main.72a5b3f2.chunk.js"
+  ]
+}
