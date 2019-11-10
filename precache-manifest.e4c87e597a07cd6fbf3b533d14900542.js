@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba2b81de4120309fc18d4e621304773c",
+    "revision": "ba0d65af91ca2cb75bb149271f5eaacb",
     "url": "/react-hook-dota2wiki/index.html"
   },
   {
-    "revision": "017d50d87005c0a44e6f",
-    "url": "/react-hook-dota2wiki/static/css/main.301ebe38.chunk.css"
+    "revision": "b044bbdb52dafbae1eef",
+    "url": "/react-hook-dota2wiki/static/css/main.f963e656.chunk.css"
   },
   {
-    "revision": "889163dd6624cfb44721",
-    "url": "/react-hook-dota2wiki/static/js/2.859412ec.chunk.js"
+    "revision": "a2907880f6a85e302dc7",
+    "url": "/react-hook-dota2wiki/static/js/2.63247683.chunk.js"
   },
   {
-    "revision": "017d50d87005c0a44e6f",
-    "url": "/react-hook-dota2wiki/static/js/main.72a5b3f2.chunk.js"
+    "revision": "b044bbdb52dafbae1eef",
+    "url": "/react-hook-dota2wiki/static/js/main.0e03726e.chunk.js"
   },
   {
     "revision": "a40815a2b8a1aaf80db9",

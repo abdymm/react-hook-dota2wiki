@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-hook-dota2wiki/precache-manifest.f211e71b8ad1e005707577dca5c33187.js"
+  "/react-hook-dota2wiki/precache-manifest.e4c87e597a07cd6fbf3b533d14900542.js"
 );
 
 self.addEventListener('message', (event) => {
