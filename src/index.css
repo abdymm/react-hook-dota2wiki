@@ -11,20 +11,55 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
-
+.overlay {
+  height: 100%;
+  background: rgba(0, 0, 0, 0.75);
+  position: absolute;
+  width: 100%;
+  top: 0;
+  z-index: 2;
+}
 .card-image {
-  min-height: 375px;
-  max-height: 375px;
+  min-height: 250px;
+  max-height: 250px;
   background: black;
   padding: 10px 0px;
 }
 .card-image img {
-  max-height: 375px;
+  max-height: 250px;
 }
 .card .card-content {
-  height: 120px;
+  min-height: 120px;
 }
 .team-title {
   margin-top: 0px;
+  margin-bottom: 0px;
+  height: 55px;
   font-size: 20px;
+}
+.team-stat div {
+  margin-bottom: 8px;
+}
+.team-box:hover {
+  cursor: pointer;
+}
+
+.team-player:hover {
+  cursor: pointer;
+}
+/* DETAIL Team */
+.team-detail {
+  top: 0;
+  height: 90%;
+  overflow: auto;
+  position: absolute;
+  z-index: 2;
+  width: 100%;
+}
+.team-detail-box {
+  padding-top: 25px;
+  margin: 16px;
+}
+.team-detail-image {
+  width: 150px;
 }

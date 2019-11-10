@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <div>
-        <h3 className="center">DOTA 2 WIKI</h3>
+        <h3 className="center">DOTA 2 PRO TEAM</h3>
         
         <div>
           <Team />
